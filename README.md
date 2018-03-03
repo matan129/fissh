@@ -2,7 +2,8 @@
 
 [![Slack Room][slack-badge]][slack-link]
 
-Prefixes the fish prompt to remind of SSHed shells.
+Prefixes the fish prompt to remind of SSHed shells. The plugin only wraps the `fish_prompt` function, so it hopefully won't break customized prompts.
+
 This plugin was written in blood...
 
 ![fissh]
